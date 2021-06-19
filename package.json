@@ -1,0 +1,16 @@
+{
+  "name": "my-webp-conversion-script",
+  "version": "1.0.0",
+  "description": "A simple Gulp setup to easily bulk convert images to .webp, and optionally to crop and/or resize them before the conversion.",
+  "main": "gulpfile.js",
+  "scripts": {},
+  "author": "Vigilante One",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-if": "^3.0.0",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-notify": "^4.0.0",
+    "gulp-webp": "^4.0.1"
+  }
+}
